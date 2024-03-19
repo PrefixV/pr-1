@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Roboto-medium;
+    src: url(fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: Roboto-small;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+nav a {
+    font-family: Roboto-small;
+}
+
+.txt-1  {
+    font-family: Roboto-medium;
+}
+
+.par-1 {
+    font-family: Roboto-small;
+}
+
+.txt-btn-1 {
+    font-family: Roboto-small;
+}
+
+.row-txt {
+    font-family: Roboto-small;
+    color: #85859B;
+}
+
+.txt-style {
+    font-family: Roboto-small;
+    color: #85859B;
+}
+
+.txt-header {
+    font-family: Roboto-small;
+    color:#666666 ;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.section-4 h1 {
+font-size: 30px;
+font-family: Roboto-small;
+font-weight: 400;
+color: #666666;
+margin: 0;
+margin-top: 10px;
+}
+
+.tier {
+    font-size: 14px;
+    color: #B5B5BD;
+    font-family: Roboto-small;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.mat-txt  {
+font-size: 18px;
+color: #85859B; 
+font-family: Roboto-small; 
+}
+
+.more {
+    font-family: Roboto-small;
+    font-weight: 400;
+    color: #7875FE;
+    font-size: 20px; 
+}
+
+.sk-txt h1 {
+    font-size: 40px;
+    font-family: Roboto-small;
+    font-weight: 400;
+    color: #666666;
+}
+
+.sk-txt-col {
+    font-size: 18px;
+    font-family: Roboto-small;
+    font-weight: 400;
+    color: #85859B;
+}
+
+.btn-2-txt {
+    font-size: 20px;
+    font-family: Roboto-small;
+    font-weight: 400;
+    color: #7875FE;
+}
